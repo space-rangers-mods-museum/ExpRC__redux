@@ -1,6 +1,6 @@
 # 🗄️ redux__ExpRC
 
-* **Name:** redux__ExpRC
+* **Name:** ExpRC
 * **Author:** Huk, Klaxons
 
 ### Summary
