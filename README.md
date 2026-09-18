@@ -80,7 +80,7 @@ acquire:
 | DATA/Script/Mod_ExpRC.txt     | bdc0026241b6b26cf51562aadbd6eaae88d1af49badcd96d13b59a384a4cb765 |
 | ModuleInfo.txt                | 4e4eb1e566eef72d3b381c204cc90bb6de7abd806f6f9ad85371a43595bdc125 |
 
-> Final archive: [`ExpRC.zip`](https://github.com/space-rangers-mods-museum/ExpRC__redux/releases/download/v1.0.0/ExpRC.zip) · SHA-256 `6044b580a2c290096d785ea5abca95e54054e8755b30e0ce7b538aed77f180ea`
+> Final archive: [`ExpRC.zip`](https://github.com/space-rangers-mods-museum/ExpRC__redux/releases/download/v1.0.0/ExpRC.zip) · SHA-256 `38de2d7bccebc051137dbcdc582742c07b0f07ff3aa77c52f5260c22d10b7d64`
 
 ---
 

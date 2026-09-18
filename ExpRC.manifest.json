@@ -22,8 +22,9 @@
   ],
   "exhibit_archive": {
     "path": "ExpRC.zip",
-    "size": 95394,
-    "sha256": "6044b580a2c290096d785ea5abca95e54054e8755b30e0ce7b538aed77f180ea",
+    "size": 96066,
+    "sha256": "38de2d7bccebc051137dbcdc582742c07b0f07ff3aa77c52f5260c22d10b7d64",
+    "root": "Mods/Expansion/ExpRC",
     "entries": 16
   },
   "files": [
